@@ -1,4 +1,4 @@
-# Devilbox Documentation
+# Devilbox Documentation. This is a good document to have. Thank you. 
 
 The Devilbox documentation is build via [sphinx](http://www.sphinx-doc.org/en/master) and
 automatically updated on [readthedocs](https://devilbox.readthedocs.io) by every git push.
