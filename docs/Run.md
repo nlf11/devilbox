@@ -1,4 +1,4 @@
-# Devilbox Documentation
+# Devilbox Documentation. Good to know this.
 
 #### Devilbox documentation has moved to [devilbox.readthedocs.io](https://devilbox.readthedocs.io)
 
